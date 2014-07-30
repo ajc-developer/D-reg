@@ -34,6 +34,3 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
-
-gen/com/drexel/d_reg/BuildConfig.java
-gen/com/drexel/d_reg/R.java
